@@ -1,6 +1,6 @@
-# base-aws-tf-template
+# tf-ip2cr-org-xaccount
 
-A base template for new AWS-based Terraform plans.
+Terraform plans for creating resources required for the application to access cross-account AWS Organizations data.
 
 ## Supported Features
 
